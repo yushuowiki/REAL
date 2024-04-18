@@ -6,7 +6,7 @@ Official implementation of Fake Reviewer Group Detection in Online Review System
 
 ## References
 
-[1] [ X. Yuan, N. Zhou, S. Yu, H. Huang, Z. Chen and F. Xia, "Higher-order Structure Based Anomaly Detection on Attributed Networks," *2021 International Conference on Data Mining Workshops (ICDMW)*, Auckland, New Zealand, 2021, pp. 935-942, doi: 10.1109/ICDMW53433.2021.00122.](https://ieeexplore.ieee.org/abstract/document/9680022)
+[1] [ C. Cao, S. Li, S. Yu and Z. Chen, "Higher-order Structure Based Anomaly Detection on Attributed Networks," *2021 International Conference on Data Mining Workshops (ICDMW)*, Auckland, New Zealand, 2021, pp. 935-942, doi: 10.1109/ICDMW53433.2021.00122.](https://ieeexplore.ieee.org/abstract/document/9680022)
 
 
 
